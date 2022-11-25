@@ -1,0 +1,26 @@
+body{
+background:linear-gradient(skyblue, rgb(190, 79, 79));
+}
+#microfono{
+    background-color: rgb(255, 220, 104);
+    border: 5px solid rebeccapurple;
+}
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid rgb(184, 57, 57);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
